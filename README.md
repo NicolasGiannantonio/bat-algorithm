@@ -177,6 +177,8 @@ const result = await batAlgorithm(sphere, "./myFolder", 150, 10000, 100, 30, 2, 
 
 <h1 id="authors">👥 Authors</h1>
 <p>Guillaume Giannantonio</p>
+<p>Nicolas Giannantonio</p>
+
 
 <h1 id="references">🔖 References</h1>
 <p>Yang, X.-S. "A new metaheuristic bat-inspired algorithm." Nature inspired cooperative strategies for optimization (NICSO 2010). Springer Berlin Heidelberg, 2010. 65-74.</p>
