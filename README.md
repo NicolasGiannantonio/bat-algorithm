@@ -177,7 +177,7 @@ const result = await batAlgorithm(sphere, "./myFolder", 150, 10000, 100, 30, 2, 
 
 <h1 id="authors">👥 Authors</h1>
 <p>Guillaume Giannantonio</p>
-<span>Nicolas Giannantonio</span>
+<p>Nicolas Giannantonio</p>
 
 
 <h1 id="references">🔖 References</h1>
